@@ -1,0 +1,21 @@
+{
+  "name": "labclases",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilim69/LabClases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilim69/LabClases/issues"
+  },
+  "homepage": "https://github.com/lilim69/LabClases#readme",
+  "description": ""
+}
